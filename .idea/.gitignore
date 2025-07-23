@@ -8,5 +8,6 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-.env
-archive.txt
+/.env
+/archive.txt
+/default.py
